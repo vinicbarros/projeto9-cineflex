@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700&display=swap');
 
-section {
+section.navbar{
     font-family: 'Roboto';
     display: flex;
     width: 100vw;
@@ -10,7 +10,7 @@ section {
     background-color: #C3CFD9;
 }
 
-section h1 {
+section.navbar h1 {
     color: #E8833A;
     font-size: 34px;
     font-weight: 400;
