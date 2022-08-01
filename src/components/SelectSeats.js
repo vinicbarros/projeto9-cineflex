@@ -139,6 +139,7 @@ export default function SelectSeats() {
 }
 
 const SeatsBox = styled.section`
+  margin-top: 70px;
   width: 100vw;
   display: flex;
   flex-direction: column;

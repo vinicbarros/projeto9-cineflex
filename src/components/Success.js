@@ -33,6 +33,7 @@ export default function Success() {
 }
 
 const SuccessBox = styled.section`
+  margin-top: 70px;
   display: flex;
   flex-direction: column;
 
